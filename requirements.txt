@@ -1,0 +1,17 @@
+# Create environment:
+# python3 -m venv .venv
+# source .venv/bin/activate
+
+# PyTorch family (install separately with CPU version)
+# Run this command before installing other requirements:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+
+# Core packages
+jupyterlab>=4.0
+matplotlib>=3.7
+numpy>=1.24
+opencv-contrib-python>=4.7
+scikit-image>=0.20
+tqdm>=4.65
+
+# pip install -r requirements.txt
