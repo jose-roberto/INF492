@@ -1,0 +1,22 @@
+name: inf492
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - torchvision
+  - pytorch
+  - torchaudio
+  - jupyterthemes
+  - jupyterlab
+  - jupyter_contrib_nbextensions
+  - opencv
+  - numpy
+  - pillow
+  - matplotlib
+  - tqdm
+  - scikit-learn
+  - tensorboard
+pip dependeencies:
+  - torchsummary
+prefix: /home/jose-roberto/miniconda3/envs/inf492

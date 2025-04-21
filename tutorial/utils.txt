@@ -1,0 +1,25 @@
+# Add conda-forge channel
+conda config --add channels conda-forge
+conda config --set channel_priority strict
+
+# Disable autostart:
+conda config --set auto_activate_base false
+
+# Create environment:
+conda create -n meu_ambiente
+
+# Envs:
+conda activate meu_ambiente
+conda deactivate
+
+# Install:
+conda install -c conda-forge noma_da_lib
+
+# Export manually installed dependencies
+conda env export --from-history > environment.yml
+
+# Jupyter
+jupyter lab
+
+# TensorBoard
+tensorboard --logdir=/home/jose-roberto/Documents/Disciplinas/INF492/assignment/a4/train_runs --load_fast=false
