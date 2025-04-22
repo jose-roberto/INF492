@@ -13,13 +13,22 @@ conda activate meu_ambiente
 conda deactivate
 
 # Install:
-conda install -c conda-forge noma_da_lib
+conda install -c conda-forge nome_da_lib
+
+# Update:
+conda update --all
+
+# Uninstall:
+conda remove nome_da_lib
 
 # Export manually installed dependencies
 conda env export --from-history > environment.yml
 
 # Jupyter
 jupyter lab
+
+# Export .ipynb to .pdf
+jupyter nbconvert seu.ipynb --to pdf
 
 # TensorBoard
 tensorboard --logdir=/home/jose-roberto/Documents/Disciplinas/INF492/assignment/a4/train_runs --load_fast=false

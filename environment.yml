@@ -17,6 +17,7 @@ dependencies:
   - tqdm
   - scikit-learn
   - tensorboard
-pip dependeencies:
-  - torchsummary
+  - pip
+  - pip:
+    - torchsummary
 prefix: /home/jose-roberto/miniconda3/envs/inf492
