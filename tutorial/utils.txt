@@ -5,25 +5,6 @@ conda config --set channel_priority strict
 # Disable autostart:
 conda config --set auto_activate_base false
 
-# Create environment:
-conda create -n meu_ambiente
-
-# Envs:
-conda activate meu_ambiente
-conda deactivate
-
-# Install:
-conda install -c conda-forge nome_da_lib
-
-# Update:
-conda update --all
-
-# Uninstall:
-conda remove nome_da_lib
-
-# Export manually installed dependencies
-conda env export --from-history > environment.yml
-
 # Jupyter
 jupyter lab
 
