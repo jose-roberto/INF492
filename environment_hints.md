@@ -2,7 +2,7 @@
 |--------------------------------|--------------------------------------------|--------------------------------------------|
 | Criar ambiente                 | `conda create -n <env> [pacotes...]`       | `micromamba create -n <env> [pacotes...]`  |
 | Criar ambiente via YAML    | `conda env create -f environment.yml`      | `micromamba env create -f environment.yml` |
-| Instalar pacote                | `conda install <pacote>`                   | `micromamba install <pacote>`              |
+| Instalar pacote                | `conda install <pacote> -c conda-forge`                   | `micromamba install <pacote> -c conda-forge`              |
 | Atualizar pacote               | `conda update <pacote>`                    | `micromamba update <pacote>`               |
 | Listar pacotes                 | `conda list`                               | `micromamba list`                          |
 | Remover pacote                 | `conda remove <pacote>`                    | `micromamba remove <pacote>`               |
