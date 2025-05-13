@@ -1,7 +1,8 @@
 | **Tarefa**                     | **Conda**                                  | **Micromamba**                             |
 |--------------------------------|--------------------------------------------|--------------------------------------------|
 | Criar ambiente                 | `conda create -n <env> [pacotes...]`       | `micromamba create -n <env> [pacotes...]`  |
-| Criar ambiente via YAML    | `conda env create -f environment.yml`      | `micromamba env create -f environment.yml` |
+| Criar ambiente via .yml    | `conda env create -f environment.yml`      | `micromamba env create -f environment.yml` |
+| Criar .yml                | `conda env export --from-history > environment.yml` | `micromamba env export --from-history > environment.yml` |
 | Instalar pacote                | `conda install -c conda-forge <pacote>`                   | `micromamba install -c conda-forge <pacote>`              |
 | Atualizar pacote               | `conda update <pacote>`                    | `micromamba update <pacote>`               |
 | Listar pacotes                 | `conda list`                               | `micromamba list`                          |
