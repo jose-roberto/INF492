@@ -1,0 +1,15 @@
+DL NYU: Curso completo da Universidade de Nova York sobre Deep Learning
+https://atcold.github.io/NYU-DLSP21/
+
+CS231n: Curso completo da Universidade de Stanford sobre redes Convolucionais
+https://cs231n.stanford.edu/
+
+CS131: Curso completo da Universidade de Stanford sobre Introdução à Visão Computacional
+http://vision.stanford.edu/teaching/cs131_fall2021/index.html
+
+CS231a: Curso completo da Universidade de Stanford sobre Visão Computacional
+https://web.stanford.edu/class/cs231a/
+
+FPCV: Curso completo da Universidade de Columbia sobre Fundamentos de Visão Computacional
+https://fpcv.cs.columbia.edu/
+
