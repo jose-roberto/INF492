@@ -1,0 +1,53 @@
+Módulo 1 - Formação de Imagem
+
+Aula 1: Introdução à Visão Computacional - https://docs.google.com/presentation/d/e/2PACX-1vTSMxkGDCv8nfWSTkJn4TH9xWZArGWhgezYkq9sV1T4e_Bi3wsNUJO9-Guz7NIFSdAqe0qbewu5BBJB/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Aula 2: Formação de imagens - https://docs.google.com/presentation/d/e/2PACX-1vT2IlTDHUHjH6bKEgOO2PVxRTUnlv-ko-iLFElj_ExJ5ZZI36MSDwDGfT2bKY9mn6o2jnrkimKPHqFu/pub?start=false&loop=false&delayms=3000#slide=id.g12938ddba1a_0_0
+
+Aula 3: Dispositivos de Captura - Parte 1 - https://docs.google.com/presentation/d/e/2PACX-1vQFj9j2TCj0mNh-BvqY3BPtH8Q6vpy_g7OQ6S7HsFnUwGPMTR51OsAoHl3JPOIxce_3GlDWouJLaEX6/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Aula 4: Dispositivos de Captura - Parte 2 - https://docs.google.com/presentation/d/e/2PACX-1vQ7WcVxrHAxHzakP-v5OKcKKAqP0wEhsEWNnxr_aboyPrY4QGkercFoGtBNtCktHcPUwSvX_7QoIBK-/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Módulo 2 - Imagens
+
+Aula 5: Radiometria - https://docs.google.com/presentation/d/e/2PACX-1vQA_URwVZCyD0wqjQ4ml7EekcIaiSXU2zirhe2La2KQ84JErSX58lfr_nsY9kJZfdZxLd5aWwmctSxw/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Aula 6: Imagens Digitais - https://docs.google.com/presentation/d/e/2PACX-1vRXPwfceK8wv8or3a0KCCFbLJqHYtDuTbnKMnsb3t3lvZSzA7ErFVuqUlKwdh_THN3Tw7yqLt5ZDrVz/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Aula 7: Operações em Imagens Digitais - https://docs.google.com/presentation/d/e/2PACX-1vSSkVzBpyF8KtnoIgPy1FFwwxqasmmD1MEtfNygbmycdXqag98-4lKyyYj6a04ZxwNEevDRl1_jHmXM/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Módulo 3 - Detecção e Descrição
+
+Aula 8: Detecção de borda e contorno - https://docs.google.com/presentation/d/e/2PACX-1vTa1Dm_7dReuv_A0Mb__wKN4_EknE4zrqKMMwuY6ZM82BiOldCRF6ukerb4gFz7L8UpeubeyJJFEbdO/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Aula 9: Detecção de Pontos de Interesse - Quinas - https://docs.google.com/presentation/d/e/2PACX-1vT-ejHBI6Ke073DNh1EbJaxcg8E0-yUMYAehFfcrepF4av6Ixh2xAXBcN4MAL3-V1N-JNfUiXhlRHM_/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Aula 10: Detectores de Pontos de Interesse - https://docs.google.com/presentation/d/e/2PACX-1vSUFQUiIKQYcgrDnZphyrcGBQy8XIM9tzJFPQhtuRn_3d5NpVFV4TDl9-n6RsIsatBptsvNbSWN1kIx/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Aula 11: Descritores Locais e Globais - https://docs.google.com/presentation/d/e/2PACX-1vTZBA54eJtQBI8EmSqW17NCTszT1ubZKB9RgPPMA8lUrB37MuFT_uPC_fWKNK0CColKUlPDErzfoP8A/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Aula 12: Bag of Visual Words - https://docs.google.com/presentation/d/e/2PACX-1vSlCBGfjwKueROULKBupL66BHHN8MBKPjQ7yYHfIo4AxpND3G4G-ZL8-22fvshwFd4af6522tnFusT8/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Módulo 4 - Aplicações com keypoints
+
+Aula 13: Transformada de Hough - https://docs.google.com/presentation/d/e/2PACX-1vTPoFBMm_1lF79lcbvdvMODs63NFgG6V1Xmll7PobwxoRkpLwZE3Mid8aVKKT_6RhbVbPAng3vm8XoH/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Aula 14: Criação de Panorama - https://docs.google.com/presentation/d/e/2PACX-1vRKBbCj995ro-F9I5fSoyWbjLxfeDs1hgCjJ0lw8uq5gjJlaayZP0Gq1Az-oCfEWw_rS9ORaKKKxvl9/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Módulo 5 - 2D to 3D
+
+Aula 15: Calibração de câmera - https://docs.google.com/presentation/d/e/2PACX-1vSXO4IPkTcnmOtMA7LYAXE-zaUTQyeKrqDj_R3F71AA76usR4xbkINNh133B_T0IKyRJq_5fyvZTlib/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Aula 16: Estimando pose da câmera - https://docs.google.com/presentation/d/e/2PACX-1vTAKDvKb439qu7DjO0Uqgy_46DfbT84kcfN_ewmePyqwidBBquWsMTRD6D9K14iz0CnlCbTh3i0OwOP/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Aula 17: Visão Estéreo - https://docs.google.com/presentation/d/e/2PACX-1vSjT65HzBEUgJodoJGjQd1egyLAESprkLwLPR3152Dmvnh3dlo7IymVFFMZzpUGrjDlv4MQeI7SMF-q/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Aula 18: Estéreo não calibrado - Calibração - https://docs.google.com/presentation/d/e/2PACX-1vRF6RWIz8PGOo2grplIVsalKlzyvz2oACoY0c1ilZ0En-4oLbd2R4qKGBuYBiHbK3zUbHXhssxpSGXj/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Aula 19: Estéreo não calibrado - Profundidade - https://docs.google.com/presentation/d/e/2PACX-1vTcJUseXLJzR-YTKUiXSi93Dn1tvB56_lRbFfYGblfO0kfGNsLo_W4j439T9Nte71ljP9B7DSwB5ydD/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Módulo 6 - Movimento
+
+Aula 20: Fluxo Ótico - https://docs.google.com/presentation/d/e/2PACX-1vSSTdXaZJgiAhIWJ4QmOE_sfgnQx8eRGAEctgsGz-CnfRz_beME4SOS-v0CykfHbcmCZc2LGOD9s8Uw/pub?start=false&loop=false&delayms=3000#slide=id.p1
+
+Aula 21: Estrutura através do movimento - https://docs.google.com/presentation/d/e/2PACX-1vSG7c3-PmXnYxisjNoN2bx3ILERvOKtbzVRpTmhNb_2EtqZvKwHKkqP4AWApHHnjipgSZ6aVa9FIJyb/pub?start=false&loop=false&delayms=3000#slide=id.p1
