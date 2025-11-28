@@ -1,11 +1,10 @@
 name: inf492
 channels:
   - pytorch
-  - nvidia
   - conda-forge
 dependencies:
   - pytorch
-  - pytorch-cuda=12.4
+  - pytorch-cuda
   - pytorch-lightning
   - torchaudio
   - torchvision
@@ -21,4 +20,7 @@ dependencies:
   - scikit-learn
   - tensorboard
   - tqdm
-prefix: "/home/jose-roberto/miniconda3/envs/inf492"
+
+  # micromamba create -n inf492 python=3.10 -c conda-forge -y
+  # micromamba install pytorch torchvision torchaudio pytorch-cuda -c pytorch -c nvidia -y
+  # micromamba install jupyter matplotlib numpy opencv pillow scikit-image scikit-learn tensorboard tqdm pytorch-lightning -c conda-forge -y
