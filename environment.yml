@@ -20,6 +20,3 @@ dependencies:
   - tensorboard
   - tqdm
 
-  # micromamba create -n inf492 python=3.10 -c conda-forge -y
-  # micromamba install pytorch torchvision torchaudio pytorch-cuda -c pytorch -c nvidia -y
-  # micromamba install ipykernel jupyter jupyterlab-git matplotlib numpy opencv pillow scikit-image scikit-learn tensorboard tqdm pytorch-lightning -c conda-forge -y
